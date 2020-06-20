@@ -1,4 +1,5 @@
 # cypress_setup
+#### Reference script: https://example.cypress.io/commands/actions
 
 1.	What is the purpose to use  this tool?
 	A rich yet simple API for interactions with automatic waiting
@@ -50,4 +51,5 @@ npm bin (to get bin directory)
 C:\Users\ahoss1\Desktop\doAutomate\cypresstest\node_modules\.bin> npm run test
 Useful link:
 https://dzone.com/articles/why-should-you-switch-to-cypress-for-modern-web-te
+
 https://www.youtube.com/watch?v=l_Q7cbmYjDY
